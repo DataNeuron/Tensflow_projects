@@ -1,4 +1,4 @@
-# Tensflow_projects
+# Tensorflow_projects
 
 1) First project PCA Dimension reduction of MNIST Dataset.
 ## Dimesion reduction using pca
